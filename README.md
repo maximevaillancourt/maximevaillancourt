@@ -8,8 +8,8 @@ Hi! I'm Maxime. I'm a senior software developer at [Shopify](https://www.shopify
 
 💬 Ask me about the joy of riding a bicycle in the winter, my short stint as a DJ in university, or why you should have your own personal website.
 
-📫 How to reach me: DMs are open on [Twitter](https://twitter.com/vaillancourtmax), please introduce yourself! :wave:
+⚡ Fun fact: I can dislocate my left shoulder on demand. It's... not gross at all. 😅
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I can dislocate my left shoulder on demand. It's... not gross at all. 😅
+📫 How to reach me: DMs are open on [Twitter](https://twitter.com/vaillancourtmax), please introduce yourself! :wave:
