@@ -2,7 +2,7 @@
 
 Hi! I'm Maxime. I'm a senior software developer at [Shopify](https://www.shopify.ca/), where I work on storefront performance. 🇨🇦
 
-🔭 Outside of work, I’m building [freshreader.app](https://freshreader.app/), a way to get rid of those 82 open tabs you have but know you'll never read. I'm also building [turven.xyz](https://turven.xyz/), a real-time visitor counter that you can insert on your website (what's that sound? that's the 2000s calling, they want their hit counters back).
+✨ Outside of work, I’m building [freshreader.app](https://freshreader.app/), a way to get rid of those 82 open tabs you have but know you'll never read. I'm also building [turven.xyz](https://turven.xyz/), a real-time visitor counter that you can insert on your website (what's that sound? that's the 2000s calling, they want their hit counters back).
 
 🌱 I’m currently learning how to take better notes, as part of my [digital garden](https://maximevaillancourt.com/notes).
 
