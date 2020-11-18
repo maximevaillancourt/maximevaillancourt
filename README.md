@@ -2,7 +2,7 @@
 
 Hi! I'm Maxime, I'm a software developer based in Canada. I work on the storefront team at [Shopify](https://www.shopify.ca/). 🇨🇦
 
-🌱 These days, I'm building a digital garden template from which you can create your very own digital garden. More than 80 people have used the template to create their own - [try building yours](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)!
+🌱 These days, I'm building a digital garden template from which you can create your very own digital garden. More than 80 people have used the template to create their garden - [try building yours](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)!
 
 ✨ I built [freshreader.app](https://freshreader.app/), a Pocket/Instapaper alternative where saved items disappear after 7 days to help you focus.
 
